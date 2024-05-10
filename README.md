@@ -8,6 +8,5 @@
 
 ## 使用
 
-> [!IMPORTANT]  
-> 关注公众号获取教程，后续有更新也会第一时间在公众号里同步。
+forked from malinkang/weread2notion-pro
 
